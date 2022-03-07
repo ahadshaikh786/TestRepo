@@ -8,4 +8,7 @@ if (x==y):
 else:
 	print("Not Equal")
 
+print("x+y = ", x+y)
+print(f"x-y = {x-y}")
+
 print("Thanks")
