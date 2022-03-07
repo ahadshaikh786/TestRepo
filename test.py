@@ -8,4 +8,7 @@ if (x==y):
 else:
 	print("Not Equal")
 
+if (y !=0):
+	print(f"x/y = {x/y}")
+
 print("Thanks")
