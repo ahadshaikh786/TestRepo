@@ -11,4 +11,7 @@ else:
 if (y !=0):
 	print(f"x/y = {x/y}")
 
+print("x+y = ", x+y)
+print(f"x-y = {x-y}")
+
 print("Thanks")
